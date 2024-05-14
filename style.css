@@ -305,8 +305,8 @@ header .search-bar-container.active{
     position: absolute;
     top:0; left: 0;
     z-index: -1;
-    height: 80%;
-    width:60%;
+    height: 60%;
+    width:20%;
     object-fit: cover;
 }
 
