@@ -301,12 +301,12 @@ header .search-bar-container.active{
     padding: 5rem 0;
 }
 
-.home .video-container image{
+.home .video-container video{
     position: absolute;
     top:0; left: 0;
     z-index: -1;
-    height: 60%;
-    width:20%;
+    height: 10%;
+    width:5%;
     object-fit: cover;
 }
 
