@@ -301,7 +301,7 @@ header .search-bar-container.active{
     padding: 5rem 0;
 }
 
-.home .video-container video{
+.home .video-container image{
     position: absolute;
     top:0; left: 0;
     z-index: -1;
