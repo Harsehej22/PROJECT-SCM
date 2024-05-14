@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=nunito:wght@200;300;400;600;700&display=swap');
 
   :root{
-    --orange:rgb(188, 228, 95);
+    --orange:rgb(200, 228, 95);
   }
 
   *{
@@ -27,7 +27,7 @@
   }
 
 section{
-    padding:2rem 9%;
+    padding:2rem 11%;
 }
 
 .heading{
@@ -36,7 +36,7 @@ section{
 }
 
 .heading span{
-    font-size: 3.5rem;
+    font-size: 3.8rem;
     background:rgba(207, 248, 161, 0.5);
     color:var(--orange);
     border-radius: .5rem;
@@ -125,7 +125,7 @@ header .search-bar-container.active{
     padding:1rem;
     text-transform: none;
     color:#333;
-    font-size: 1.7rem;
+    font-size: 2rem;
     border-radius: .5rem;
   }
 
@@ -170,7 +170,7 @@ header .search-bar-container.active{
 
   .login-form-container form h3{
     font-size: 3rem;
-    color:rgb(230, 227, 105);
+    color:rgb(230, 230, 110);
     text-transform: uppercase;
     text-align: center;
     padding:1rem 0;
